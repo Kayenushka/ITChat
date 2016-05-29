@@ -1,2 +1,2 @@
-# LessonsJava
-Java Core Lessons
+# IT Chat Project
+it chat
