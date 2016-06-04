@@ -1,2 +1,2 @@
-# IT Chat Project
-it chat
+# Hexapod Chat Project
+heXchat
